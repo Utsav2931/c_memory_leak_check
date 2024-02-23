@@ -17,6 +17,9 @@ $ make my_memcheck.so
 $ make test1
 ```
 
+#Note
+The code was tested on gcc version of Ubuntu 16/gcc different OS/gcc/g++ versions may yield different behavior.
+
 
 
 and run test1 using the intercepting library
